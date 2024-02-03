@@ -13,10 +13,17 @@
 
         <Button
             android:id="@+id/button_first"
+<<<<<<< Updated upstream
             android:layout_width="101dp"
             android:layout_height="51dp"
             android:layout_marginTop="4dp"
             android:text="Add"
+=======
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add/Remove"
+            app:layout_constraintBottom_toTopOf="@id/textview_first"
+>>>>>>> Stashed changes
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"

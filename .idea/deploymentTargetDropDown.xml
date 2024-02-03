@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="deploymentTargetDropDown">
+<<<<<<< Updated upstream
     <runningDeviceTargetSelectedWithDropDown>
       <Target>
         <type value="RUNNING_DEVICE_TARGET" />
@@ -13,5 +14,12 @@
       </Target>
     </runningDeviceTargetSelectedWithDropDown>
     <timeTargetWasSelectedWithDropDown value="2024-02-03T20:16:19.076264200Z" />
+=======
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+>>>>>>> Stashed changes
   </component>
 </project>
